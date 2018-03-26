@@ -1,0 +1,27 @@
+{
+  "name": "imminent-suicide",
+  "version": "0.0.101",
+  "description": "Dies/exits as soon as it gets any matching stdin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ORESoftware/imminent-suicide.git"
+  },
+  "keywords": [
+    "Olegzandr",
+    "VD"
+  ],
+  "author": "Olegzandr VD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ORESoftware/imminent-suicide/issues"
+  },
+  "homepage": "https://github.com/ORESoftware/imminent-suicide#readme",
+  "devDependencies": {
+    "@types/core-js": "^0.9.46",
+    "@types/node": "^9.6.0"
+  }
+}
