@@ -2,6 +2,9 @@
   "name": "imminent-suicide",
   "version": "0.0.101",
   "description": "Dies/exits as soon as it gets any matching stdin.",
+  "bin":{
+    "imminent_suicide": "index.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "suman test"
