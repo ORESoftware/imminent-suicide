@@ -1,0 +1,9 @@
+node_modules
+*.json
+*.md
+.idea
+.vscode
+*.log
+scripts
+*.ts
+!index.d.ts
